@@ -1,10 +1,11 @@
-# Hi, I'm thongek Wongpomon 👋
+# Hi, I'm thongek "Next" Wongpomon 👋
 
 Welcome to my GitHub profile!
 
 - 💼 IT Supports & Developer
 - 🌏 Thailand
 - 🚀 Interested in Web, any leaguage, and Open Source
+- ⛪The Christ Of Latter Day Saints
 ---
 
 ## My Skills
