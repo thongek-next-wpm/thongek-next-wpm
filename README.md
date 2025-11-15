@@ -8,4 +8,4 @@ Welcome to my GitHub profile!
 
 ## Contact
 - [Facebook](https://www.facebook.com/BreakerGEz)
-- [Inliked](https://www.linkedin.com/in/thongek-wongpomon/)
+- [linkedin](https://www.linkedin.com/in/thongek-wongpomon/)
