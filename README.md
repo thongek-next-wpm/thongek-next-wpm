@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - 💼 IT Supports & Developer
 - 🌏 Thailand
-- 🚀 Interested in Web, Python, and Open Source
+- 🚀 Interested in Web, anyleaguage, and Open Source
 
 ## Contact
 - [Facebook](https://www.facebook.com/BreakerGEz)
