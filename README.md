@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 💼 **IT Supports & Developer**
-- 🏢 **Enterprise: ** CYN COMMUNICATION CO.,LTD.
+- 🏢 **Enterprise:** CYN COMMUNICATION CO.,LTD.
 - 🌏 **Location:** Thailand
 - 💡 **Interest:** Web, Any Language, Open Source
 - ⛪ **Religion:** The Christ Of Latter Day Saints
