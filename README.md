@@ -9,3 +9,10 @@ Welcome to my GitHub profile!
 ## Contact
 - [Facebook](https://www.facebook.com/BreakerGEz)
 - [linkedin](https://www.linkedin.com/in/thongek-wongpomon/)
+
+---
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,js,github,git,vite,npm,nodejs,html,css,tailwind,postman&perline=11)](#)
+---
