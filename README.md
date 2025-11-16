@@ -12,9 +12,12 @@
 
 - 💼 **IT Supports & Developer**
 - 🏢 **Enterprise:** CYN COMMUNICATION CO.,LTD.
+- 📍 **Address:** 230 51 Krung Thon Buri Road, Bang Lamphu Lang, Khlong San, Bangkok 10600
 - 🌏 **Location:** Thailand
 - 💡 **Interest:** Web, IOT, Any Language, Open Source
 - ⛪ **Religion:** The Christ Of Latter Day Saints
+- ⚽ **Football team:** Bayern München
+- 🕹️ **Game:** Counter-Strike 2, League of Legends,Football Manager(FM) And EA Sport FC
 
 ---
 
