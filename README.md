@@ -23,18 +23,26 @@
 
 ## 👨‍💻 My Skills
 
-```bash
-React | Flutter | JavaScript | GitHub | Git | Vite | npm | Node.js | HTML | CSS | Tailwind | Postman
-```
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,js,github,git,vite,npm,nodejs,html,css,tailwind,postman" />
 </div>
 
-
+---
 ## 📖 Certificate
-**「Training Program」 - 「TH POP Firewalls training certificate by ADP JRP」 - 「Graduation」**
+
 <div align="center">
-<img width="500" height="500" alt="Thongaek Wongpomon的TH POP Firewalls training certificate" src="https://github.com/user-attachments/assets/41ac8dd7-ef0a-42f2-8141-0c3a7f46c2d4" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="250" alt="Thongaek Wongpomon's TH POP Firewalls training certificate" src="https://github.com/user-attachments/assets/41ac8dd7-ef0a-42f2-8141-0c3a7f46c2d4" />
+    </td>
+    <td align="left" width="50%">
+      <b>Training Program</b><br>
+      <b>TH POP Firewalls training certificate by ADP JRP</b><br>
+      <b>Graduation</b>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
