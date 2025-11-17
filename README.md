@@ -18,7 +18,7 @@
 - 💡 **Interest:** Web, IOT, Any Language, Open Source
 - ⛪ **Religion:** The Christ Of Latter Day Saints
 - ⚽ **Football team:** Bayern München
-- 🕹️ **Game:** Counter-Strike 2, League of Legends, Football Manager(FM) And EA Sport FC
+- 🕹️ **Game:** Counter-Strike 2, League of Legends, Football Manager(FM) and EA Sports FC
 
 ---
 
