@@ -15,7 +15,7 @@
 - 📍 **Address:** 230 51 Krung Thon Buri Road, Bang Lamphu Lang,
   Khlong San, Bangkok 10600
 - 🌏 **Location:** Thailand
-- 💡 **Interest:** Web, IOT, Any Language, Open Source
+- 💡 **Interest:** Web, IOT, Any Language, Open Source, Network labs
 - ⛪ **Religion:** The Christ Of Latter Day Saints
 - ⚽ **Football team:** Bayern München
 - 🕹️ **Game:** Counter-Strike 2, League of Legends, Football Manager(FM) and EA Sports FC
