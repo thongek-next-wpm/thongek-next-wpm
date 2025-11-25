@@ -25,7 +25,7 @@
 ## 👨‍💻 My Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,js,github,git,vite,npm,nodejs,html,css,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=windows,react,mongodb,flutter,js,github,git,vite,npm,nodejs,html,css,tailwind,postman,powershell" />
 </div>
 
 ---
