@@ -24,32 +24,26 @@
 
 ## 👨‍💻 My Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,react,mongodb,flutter,js,github,git,vite,npm,nodejs,html,css,tailwind,postman,powershell" />
-</div>
+| Category | Skills |
+|----------|--------|
+| **Operating System** | <p align="center"> ![windows](https://skillicons.dev/icons?i=windows)  </p> |
+| **Frontend Skills** | <p align="center"> ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![dart](https://skillicons.dev/icons?i=dart) </p> |
+| **Backend Skills** | <p align="center"> ![express](https://skillicons.dev/icons?i=expressjs)  ![Node.js](https://skillicons.dev/icons?i=nodejs) </p> |
+| **Frameworks & Libraries** | <p align="center"> ![React](https://skillicons.dev/icons?i=react) ![flutter](https://skillicons.dev/icons?i=flutter) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  |
+| **Database** | <p align="center"> ![MongoDB](https://skillicons.dev/icons?i=mongodb)  ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Firebase](https://skillicons.dev/icons?i=firebase)    </p> |
+| **Tools** | <p align="center"> ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)  ![NPM](https://skillicons.dev/icons?i=npm)  ![Docker](https://skillicons.dev/icons?i=docker)  ![Postman](https://skillicons.dev/icons?i=postman)  ![Bash](https://skillicons.dev/icons?i=bash) ![Shell](https://skillicons.dev/icons?i=powershell)  </p> |
 
 ---
 ## 📖 Certificate
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="250" alt="Thongaek Wongpomon's TH POP Firewalls training certificate" src="https://github.com/user-attachments/assets/41ac8dd7-ef0a-42f2-8141-0c3a7f46c2d4" />
-    </td>
-    <td align="left" width="50%">
-      <b>Training Program</b><br>
-      <b>TH POP Firewalls training certificate by ADP JRP</b><br>
-      <b>Graduation</b>
-    </td>
-  </tr>
-</table>
-</div>
+| Certificate | title |
+|----------|--------|
+| <img width="250" alt="Thongaek Wongpomon's TH POP Firewalls training certificate" src="https://github.com/user-attachments/assets/41ac8dd7-ef0a-42f2-8141-0c3a7f46c2d4" /> | <p align="center"> TH POP Firewalls training certificate by ADP JRP</p> |
+</p>
 
 ---
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=thongek-next-wpm&show_icons=true" />
-</p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">  
+
 
 ---
 ## 📫 Contact Me
