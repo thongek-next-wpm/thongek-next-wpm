@@ -48,7 +48,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thongek-next-wpm&show_icons=true&hide_border=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thongek-next-wpm&show_icons=true" />
 </p>
 
 ---
