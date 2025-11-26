@@ -43,6 +43,16 @@
 ---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">  
+  <div align="center">
+
+----
+
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=thongek-next-wpm&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="33%" 
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=thongek-next-wpm&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
+
+</div>
   
 </p>
 <p align="center">
