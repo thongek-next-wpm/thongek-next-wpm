@@ -44,7 +44,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">  
   
+</p>
+<p align="center">
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=thongek-next-wpm)](https://github.com/thongek-next-wpm/github-profile-trophy)
+  
 </p>
 
 
