@@ -1,4 +1,4 @@
-# Hi, I'm thongek "Next" Wongpomon 👋
+# Hi, I'm Thongek "Next" Wongpomon 👋
 
 ---
 
