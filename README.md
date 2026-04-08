@@ -11,9 +11,8 @@
 ## 🚀 About Me
 
 - 💼 **IT Supports & Developer**
-- 🏢 **Enterprise:** CYN COMMUNICATION CO.,LTD.
-- 📍 **Address:** 230 51 Krung Thon Buri Road, Bang Lamphu Lang,
-  Khlong San, Bangkok 10600
+- 🏢 **Enterprise:** Intermedical Care and Lab Hospital Public Company Limited 
+- 📍 **Address:** 442 Bang Waek Rd, Bang Waek, Phasi Charoen, Bangkok 10160
 - 🌏 **Location:** Thailand
 - 💡 **Interest:** Web, IOT, Any Language, Open Source, Network Labs
 - ⛪ **Religion:** The Christ Of Latter Day Saints
