@@ -12,7 +12,7 @@
 I am a dedicated **IT Support Professional** actively transitioning into a **Software Developer** role. With a solid foundation in system operations, troubleshooting, and network labs, I am shifting my focus toward building scalable web applications and open-source solutions. 
 
 - 💼 **Current Role:** IT Support & Developer at *Intermedical Care and Lab Hospital Public Company Limited*
-- 📍 **Location:** Phasi Charoen, Bangkok, Thailand
+- 📍 **Location:** 48/87 10/1 Pruksatown Nexts Krathum Lom, Sam Phran District, Nakhon Pathom 73220
 - 💡 **Interests:** Web Development, IoT, Network Labs, Open Source Contribution
 - ⛪ **Faith:** The Church of Jesus Christ of Latter-day Saints
 - ⚽ **Hobbies:** Supporter of *Bayern München* 🇩🇪 | Football Manager (FM) enthusiast, CS2, and LoL
