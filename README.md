@@ -1,6 +1,6 @@
 # Hi, I'm Thongek "Next" Wongpomon 👋
 ### สวัสดีครับ ผมชื่อ ทองเอก "เน็กซ์" วงษ์โพธิ์มณ 👋
-### 🚀 Aspiring Software Developer | Transitioning from IT Support
+# 🚀 Aspiring Software Developer | Transitioning from IT Support
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=a040a0&center=true&vCenter=true&width=500&lines=IT+Support+to+Developer;Full-Stack+Web+Enthusiast;Open+Source+Learner;Based+in+Thailand" alt="Typing SVG" />
