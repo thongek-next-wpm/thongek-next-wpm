@@ -1,5 +1,5 @@
 # Hi, I'm Thongek "Next" Wongpomon 👋
-#สวัสดีครับ ผมชื่อ ทองเอก "เน็กซ์" วงษ์โพธิ์มณ 👋
+# สวัสดีครับ ผมชื่อ ทองเอก "เน็กซ์" วงษ์โพธิ์มณ 👋
 ### 🚀 Aspiring Software Developer | Transitioning from IT Support
 
 <p align="center">
