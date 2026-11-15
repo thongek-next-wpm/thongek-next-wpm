@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" role="img" aria-label="AI Engine Integration - Active Development">
+  <defs>
+    <linearGradient id="aiBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#1A122B" />
+    </linearGradient>
+    <linearGradient id="aiAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7" />
+      <stop offset="50%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#00AEFF" />
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Card Shell -->
+  <rect x="1" y="1" width="398" height="118" rx="8" fill="url(#aiBg)" stroke="#30363D" stroke-width="1" />
+  <rect x="16" y="1" width="368" height="2" rx="1" fill="url(#aiAccent)" opacity="0.85" />
+
+  <!-- Spark / Node Icon -->
+  <g transform="translate(18, 16)" fill="none" stroke="#A855F7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 0.5L8.7 5.3L13.5 7L8.7 8.7L7 13.5L5.3 8.7L0.5 7L5.3 5.3Z" />
+  </g>
+
+  <!-- Title -->
+  <text x="40" y="27" class="sans" font-size="14.5" font-weight="700" fill="#00AEFF">ai-engine-systems</text>
+
+  <!-- Active Dev Pill -->
+  <rect x="292" y="12" width="92" height="22" rx="11" fill="#A855F7" fill-opacity="0.16" stroke="#A855F7" stroke-opacity="0.45" stroke-width="1" />
+  <circle cx="305" cy="23" r="3.5" fill="#C084FC" />
+  <text x="315" y="27" class="sans" font-size="11" font-weight="700" fill="#E9D5FF">In Progress</text>
+
+  <!-- Description -->
+  <text x="18" y="56" class="sans" font-size="13" font-weight="600" fill="#E6EDF3">AI Engine-Powered Web &amp; Systems</text>
+  <text x="18" y="75" class="sans" font-size="12.5" fill="#94A3B8">Integrating AI Engine into active software builds</text>
+
+  <!-- Footer Metadata -->
+  <circle cx="23" cy="99" r="4.5" fill="#A855F7" />
+  <text x="34" y="103" class="sans" font-size="11.5" fill="#8B949E">AI Engine  •  Smart Automation</text>
+</svg>

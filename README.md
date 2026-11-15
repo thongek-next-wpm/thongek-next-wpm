@@ -63,6 +63,20 @@
   <tr>
     <td width="50%" valign="top">
       <p align="center">
+        <img width="100%" src="./assets/fm-career-card.svg" alt="fm-career — Football Manager Career Tracker & Stats Dashboard" />
+      </p>
+      <p>
+        <b>⚽ FM Career Tracker &amp; Stats Dashboard</b> <sub><i>(Private Repo)</i></sub><br />
+        A dedicated Football Manager (FM) career tracker and statistics dashboard built to organize managerial saves, match logs, and season progress.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Repository-Private-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Private Repository" />
+        <img src="https://img.shields.io/badge/FM_Career-Tracker-2DDE98?style=flat-square" alt="FM Career Tracker" />
+        <img src="https://img.shields.io/badge/Stats-Dashboard-00AEFF?style=flat-square" alt="Stats Dashboard" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
         <a href="https://github.com/thongek-next-wpm/MERN_Workout_Project" target="_blank">
           <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=MERN_Workout_Project&theme=algolia&bg_color=0D1117&hide_border=true" alt="MERN_Workout_Project" />
         </a>
@@ -78,6 +92,8 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/thongek-next-wpm/github-readme-stats" target="_blank">
@@ -94,25 +110,28 @@
         <img src="https://img.shields.io/badge/SVG_API-38BDF8?style=flat-square" alt="SVG API" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 AI Engine-Powered Systems &amp; Web Apps <sub><i>(In Active Development)</i></sub></h3>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img width="100%" src="./assets/ai-engine-card.svg" alt="AI Engine-Powered Systems & Web Apps" />
+      </p>
       <p>
-        Currently building and integrating <b>AI Engine</b> capabilities into ongoing software &amp; workflow automation projects — combining solid IT infrastructure experience with intelligent processing, smart assistance, and modern full-stack interfaces.
+        <b>🤖 AI Engine-Powered Systems &amp; Web Apps</b> <sub><i>(In Active Development)</i></sub><br />
+        Integrating <b>AI Engine</b> capabilities into ongoing web and workflow automation projects to deliver smarter data processing and system assistance.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Powered_by-AI_Engine-A855F7?style=flat-square&logo=sparkles&logoColor=white" alt="Powered by AI Engine" />
         <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" alt="In Development" />
-        <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Automation-0EA5E9?style=flat-square" alt="Full-Stack & Automation" />
-        &nbsp;
-        <a href="https://github.com/thongek-next-wpm?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View_All_Repositories-161B22?style=flat-square&logo=github&logoColor=white" alt="View All Repositories" />
-        </a>
+        <img src="https://img.shields.io/badge/Full--Stack-%26_Automation-0EA5E9?style=flat-square" alt="Full-Stack & Automation" />
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/thongek-next-wpm?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories on GitHub" />
+  </a>
+</p>
 
 ---
 

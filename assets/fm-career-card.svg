@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" role="img" aria-label="fm-career — Football Manager Career Tracker and Stats Dashboard">
+  <defs>
+    <linearGradient id="fmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#111C24" />
+    </linearGradient>
+    <linearGradient id="fmAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2DDE98" />
+      <stop offset="50%" stop-color="#00AEFF" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Card Shell -->
+  <rect x="1" y="1" width="398" height="118" rx="8" fill="url(#fmBg)" stroke="#30363D" stroke-width="1" />
+  <rect x="16" y="1" width="368" height="2" rx="1" fill="url(#fmAccent)" opacity="0.85" />
+
+  <!-- Repo / Dashboard Icon -->
+  <g transform="translate(18, 16)" fill="none" stroke="#00AEFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="14" height="14" rx="3" />
+    <path d="M4 10V7M7 10V4M10 10V6" />
+  </g>
+
+  <!-- Title -->
+  <text x="40" y="27" class="sans" font-size="14.5" font-weight="700" fill="#00AEFF">thongek-next-wpm/fm-career</text>
+
+  <!-- Private Pill -->
+  <rect x="312" y="12" width="72" height="22" rx="11" fill="#F59E0B" fill-opacity="0.14" stroke="#F59E0B" stroke-opacity="0.45" stroke-width="1" />
+  <g transform="translate(321, 17)" fill="none" stroke="#FBBF24" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="5" width="8" height="6" rx="1.5" />
+    <path d="M2.5 5V3.5a2.5 2.5 0 0 1 5 0V5" />
+  </g>
+  <text x="335" y="27" class="sans" font-size="11" font-weight="700" fill="#FBBF24">Private</text>
+
+  <!-- Description -->
+  <text x="18" y="56" class="sans" font-size="13" font-weight="600" fill="#E6EDF3">Football Manager (FM) Career Tracker</text>
+  <text x="18" y="75" class="sans" font-size="12.5" fill="#94A3B8">&amp; Stats Dashboard for managerial saves</text>
+
+  <!-- Footer Metadata -->
+  <circle cx="23" cy="99" r="4.5" fill="#2DDE98" />
+  <text x="34" y="103" class="sans" font-size="11.5" fill="#8B949E">FM Career  •  Stats Dashboard</text>
+
+  <!-- Mini Pitch/Chart Bars on Right -->
+  <g transform="translate(342, 87)">
+    <rect x="0" y="10" width="5" height="8" rx="1.5" fill="#00AEFF" opacity="0.7" />
+    <rect x="8" y="5" width="5" height="13" rx="1.5" fill="#2DDE98" opacity="0.85" />
+    <rect x="16" y="8" width="5" height="10" rx="1.5" fill="#A855F7" opacity="0.8" />
+    <rect x="24" y="2" width="5" height="16" rx="1.5" fill="#00AEFF" />
+    <rect x="32" y="6" width="5" height="12" rx="1.5" fill="#EC4899" opacity="0.85" />
+  </g>
+</svg>
