@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Footer Banner - Thanks for visiting">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#14162A" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#A855F7" />
+      <stop offset="70%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="102" rx="16" fill="url(#footerBg)" stroke="#30363D" stroke-width="1.2" />
+  <rect x="60" y="4" width="1080" height="2.5" rx="1.25" fill="url(#topLine)" />
+
+  <text x="600" y="48" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#F0F6FC">
+    Thanks for stopping by!  •  ขอบคุณที่แวะเข้ามาเยี่ยมชมครับ ✨
+  </text>
+  <text x="600" y="78" text-anchor="middle" class="mono" font-size="13.5" fill="#8B949E">
+    $ echo "Keep troubleshooting, keep learning, keep building."  |  Thongek "Next" Wongpomon
+  </text>
+</svg>
