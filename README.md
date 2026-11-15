@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=IT+Support+to+Software+Developer;Full-Stack+Web+Enthusiast;Network+Labs+%26+IoT+Explorer;Open+Source+Learner+%E2%80%A2+Thailand" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=IT+Support+to+Software+Developer;Full-Stack+%26+AI+Engine+Builder;Network+Labs+%26+IoT+Explorer;Open+Source+Learner+%E2%80%A2+Thailand" alt="Typing SVG" />
 </p>
 
 <!-- Quick Badges & Navigation -->
@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="#-about-me">🎯 About</a> •
+  <a href="#-featured-projects">🚀 Projects</a> •
   <a href="#-tech-stack--skills">🧰 Tech Stack</a> •
   <a href="#-certifications">📜 Certifications</a> •
   <a href="#-github-metrics">📊 Metrics</a> •
@@ -36,19 +37,79 @@
     <td width="58%" valign="top">
       <p>
         I am a dedicated <b>IT Support Professional</b> actively transitioning into a <b>Software Developer</b> role.
-        With a solid foundation in system operations, troubleshooting, and network labs, I am shifting my focus
-        toward building scalable web applications and open-source solutions.
+        With a solid foundation in system operations, troubleshooting, and network labs, I am focusing on building
+        scalable full-stack web applications, integrating <b>AI Engine</b> into active systems, and contributing to open-source solutions.
       </p>
       <ul>
         <li>💼 <b>Current Role:</b> IT Support &amp; Developer at <i>Intermedical Care and Lab Hospital Public Company Limited</i></li>
+        <li>🤖 <b>Active Build:</b> Developing modern web &amp; automation systems powered by <b>AI Engine</b></li>
         <li>📍 <b>Location:</b> 48/87 10/1 Pruksatown Nexts Krathum Lom, Sam Phran District, Nakhon Pathom 73220</li>
-        <li>💡 <b>Interests:</b> Web Development, IoT, Network Labs, Open Source Contribution</li>
+        <li>💡 <b>Interests:</b> Web Development, AI Engine, IoT, Network Labs, Open Source</li>
         <li>⛪ <b>Faith:</b> The Church of Jesus Christ of Latter-day Saints</li>
         <li>⚽ <b>Hobbies:</b> Supporter of <i>Bayern München</i> 🇩🇪 · Football Manager (FM), CS2 &amp; LoL</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="./assets/focus-card.svg" alt="Career Path: IT Support to Full-Stack Software Developer" width="100%" />
+      <img src="./assets/focus-card.svg" alt="Career Path: IT Support to Full-Stack and AI Engine Developer" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/thongek-next-wpm/MERN_Workout_Project" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=MERN_Workout_Project&theme=algolia&bg_color=0D1117&hide_border=true" alt="MERN_Workout_Project" />
+        </a>
+      </p>
+      <p>
+        <b>🏋️ MERN Workout Tracker</b><br />
+        Full-stack workout logging and tracking application with decoupled <code>frontend/</code> and <code>backend/</code> architecture for full CRUD exercise management.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/thongek-next-wpm/github-readme-stats" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=github-readme-stats&theme=algolia&bg_color=0D1117&hide_border=true" alt="github-readme-stats" />
+        </a>
+      </p>
+      <p>
+        <b>📊 Self-Hosted GitHub Metrics API</b><br />
+        Customized deployment of GitHub Readme Stats on Vercel powering live profile analytics, language breakdowns, and project pin cards.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/SVG_API-38BDF8?style=flat-square" alt="SVG API" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 AI Engine-Powered Systems &amp; Web Apps <sub><i>(In Active Development)</i></sub></h3>
+      <p>
+        Currently building and integrating <b>AI Engine</b> capabilities into ongoing software &amp; workflow automation projects — combining solid IT infrastructure experience with intelligent processing, smart assistance, and modern full-stack interfaces.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Powered_by-AI_Engine-A855F7?style=flat-square&logo=sparkles&logoColor=white" alt="Powered by AI Engine" />
+        <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" alt="In Development" />
+        <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Automation-0EA5E9?style=flat-square" alt="Full-Stack & Automation" />
+        &nbsp;
+        <a href="https://github.com/thongek-next-wpm?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/View_All_Repositories-161B22?style=flat-square&logo=github&logoColor=white" alt="View All Repositories" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -91,12 +152,20 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>💻 OS, Scripting &amp; Editor</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=windows,bash,powershell,vscode" height="42" alt="Windows, Bash, PowerShell, VS Code" />
       </p>
       <sub>Windows · Bash · PowerShell · VS Code</sub>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3>🤖 AI Engine &amp; Automation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Engine-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AI Engine" />
+        <img src="https://img.shields.io/badge/Smart_Workflows-0EA5E9?style=for-the-badge" alt="Smart Workflows" />
+      </p>
+      <sub>AI Engine Integration · System Automation · Intelligent Apps</sub>
     </td>
   </tr>
 </table>
