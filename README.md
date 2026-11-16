@@ -179,13 +179,16 @@
       </p>
       <sub>Windows · Bash · PowerShell · VS Code</sub>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <h3>🤖 AI Engine &amp; Automation</h3>
+    <td width="50%" align="center" valign="top">
+      <h3>🤖 AI Tools, Engine &amp; Automation</h3>
       <p>
+        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+        <img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" /><br />
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+        <img src="https://img.shields.io/badge/Claude_Code-1E293B?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
         <img src="https://img.shields.io/badge/AI_Engine-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AI Engine" />
-        <img src="https://img.shields.io/badge/Smart_Workflows-0EA5E9?style=for-the-badge" alt="Smart Workflows" />
       </p>
-      <sub>AI Engine Integration · System Automation · Intelligent Apps</sub>
+      <sub>Google Gemini · Antigravity · Claude · Claude Code · AI Engine &amp; Automation</sub>
     </td>
   </tr>
 </table>
