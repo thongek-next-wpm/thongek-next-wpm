@@ -78,19 +78,19 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/thongek-next-wpm/MERN_Workout_Project" target="_blank">
-          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=MERN_Workout_Project&theme=algolia&bg_color=0D1117&hide_border=true" alt="MERN_Workout_Project" />
+        <a href="https://github.com/thongek-next-wpm/workout-buddy-supabase" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=workout-buddy-supabase&theme=algolia&bg_color=0D1117&hide_border=true" alt="workout-buddy-supabase" />
         </a>
       </p>
       <p>
-        <b>🏋️ MERN Workout Tracker</b><br />
-        Full-stack workout logging and tracking application with decoupled <code>frontend/</code> and <code>backend/</code> architecture for full CRUD exercise management.
+        <b>🏋️ Workout Buddy — Supabase Edition</b><br />
+        Full-stack workout tracker powered by React, Express, <b>Supabase</b> (PostgreSQL, Auth, RLS), and Google OAuth with a modern athletic dashboard.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
   </tr>
@@ -150,9 +150,9 @@
     <td width="50%" align="center" valign="top">
       <h3>⚙️ Backend &amp; Database</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,sqlite,firebase" height="42" alt="Node.js, Express, MongoDB, MySQL, SQLite, Firebase" />
+        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,supabase,postgres,mongodb,mysql,sqlite,firebase" height="42" alt="Node.js, Express, Supabase, PostgreSQL, MongoDB, MySQL, SQLite, Firebase" />
       </p>
-      <sub>Node.js · Express · MongoDB · MySQL · SQLite · Firebase</sub>
+      <sub>Node.js · Express · Supabase · PostgreSQL · MongoDB · MySQL · SQLite · Firebase</sub>
     </td>
   </tr>
   <tr>
