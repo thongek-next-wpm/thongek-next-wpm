@@ -36,17 +36,18 @@
   <tr>
     <td width="58%" valign="top">
       <p>
-        I am a dedicated <b>IT Support Professional</b> actively transitioning into a <b>Software Developer</b> role.
-        With a solid foundation in system operations, troubleshooting, and network labs, I am focusing on building
-        scalable full-stack web applications, integrating <b>AI Engine</b> into active systems, and contributing to open-source solutions.
+        I am an <b>IT Support Professional</b> transitioning into a <b>Software Developer</b>, combining
+        hands-on experience in system operations, troubleshooting, and network labs with modern software engineering.
+        My focus is on building scalable full-stack web applications, integrating <b>AI Engine</b> into active
+        workflows, and contributing to open-source solutions.
       </p>
       <ul>
         <li>💼 <b>Current Role:</b> IT Support &amp; Developer at <i>Intermedical Care and Lab Hospital Public Company Limited</i></li>
-        <li>🤖 <b>Active Build:</b> Developing modern web &amp; automation systems powered by <b>AI Engine</b></li>
+        <li>🤖 <b>Current Focus:</b> Full-stack web applications &amp; smart workflow automation powered by <b>AI Engine</b></li>
         <li>📍 <b>Location:</b> 48/87 10/1 Pruksatown Nexts Krathum Lom, Sam Phran District, Nakhon Pathom 73220</li>
         <li>💡 <b>Interests:</b> Web Development, AI Engine, IoT, Network Labs, Open Source</li>
         <li>⛪ <b>Faith:</b> The Church of Jesus Christ of Latter-day Saints</li>
-        <li>⚽ <b>Hobbies:</b> Supporter of <i>Bayern München</i> 🇩🇪 · Football Manager (FM), CS2 &amp; LoL</li>
+        <li>⚽ <b>Hobbies:</b> <i>Bayern München</i> supporter 🇩🇪 · Football Manager (FM), CS2 &amp; LoL</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
