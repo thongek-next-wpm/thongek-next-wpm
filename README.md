@@ -238,6 +238,14 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thongek-next-wpm&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=thongek-next-wpm&bg_color=0D1117&color=E6EDF3&line=A855F7&point=00AEFF&area=true&area_color=38BDF8&hide_border=true&radius=8&custom_title=Contribution%20Activity%20Graph" alt="GitHub Contribution Activity Graph" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
