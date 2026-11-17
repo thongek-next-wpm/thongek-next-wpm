@@ -103,7 +103,7 @@
       </p>
       <p>
         <b>📊 Self-Hosted GitHub Metrics API</b><br />
-        Customized deployment of GitHub Readme Stats on Vercel powering live profile analytics, language breakdowns, and project pin cards.
+        A personal Vercel-hosted GitHub Readme Stats instance serving live profile analytics, top-language breakdowns, and repository pin cards.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
