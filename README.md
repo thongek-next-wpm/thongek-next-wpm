@@ -10,17 +10,24 @@
 
 <!-- Quick Badges & Navigation -->
 <p align="center">
+  <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/thongek-wongpomon/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/BreakerGEz" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="mailto:thongek.wpm@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thongek-next-wpm" alt="Profile Visitors" />
 </p>
 
 <p align="center">
   <a href="#-about-me">🎯 About</a> •
+  <a href="#-live-websites">🌐 Live Websites</a> •
   <a href="#-featured-projects">🚀 Projects</a> •
   <a href="#-tech-stack--skills">🧰 Tech Stack</a> •
   <a href="#-certifications">📜 Certifications</a> •
@@ -44,7 +51,9 @@
       <ul>
         <li>💼 <b>Current Role:</b> IT Support &amp; Developer at <i>Intermedical Care and Lab Hospital Public Company Limited</i></li>
         <li>🤖 <b>Current Focus:</b> Full-stack web applications &amp; smart workflow automation powered by <b>AI Engine</b></li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank">thongek-next-wpm.github.io/portfolio</a></li>
         <li>📍 <b>Location:</b> 48/87 10/1 Pruksatown Nexts Krathum Lom, Sam Phran District, Nakhon Pathom 73220</li>
+        <li>📫 <b>Email:</b> <a href="mailto:thongek.wpm@gmail.com">thongek.wpm@gmail.com</a></li>
         <li>💡 <b>Interests:</b> Web Development, AI Engine, IoT, Network Labs, Open Source</li>
         <li>⛪ <b>Faith:</b> The Church of Jesus Christ of Latter-day Saints</li>
         <li>⚽ <b>Hobbies:</b> <i>Bayern München</i> supporter 🇩🇪 · Football Manager (FM), CS2 &amp; LoL</li>
@@ -58,24 +67,77 @@
 
 ---
 
+## 🌐 Live Websites
+
+<table width="100%">
+  <tr>
+    <th width="25%" align="left">Website</th>
+    <th width="50%" align="left">Highlights</th>
+    <th width="25%" align="center">Links</th>
+  </tr>
+  <tr>
+    <td><b>🖥️ Developer Portfolio</b></td>
+    <td>Frutiger Aero glass UI (ECO / SKY / AQUA), 3D Crystal Biosphere globe (Three.js), Vista boot screen &amp; Aero Media Player</td>
+    <td align="center">
+      <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-14B8A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Portfolio Website" /></a>
+      <a href="https://github.com/thongek-next-wpm/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio Repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚽ Football Data Central</b></td>
+    <td>Public European football analytics (Top 5 Leagues &amp; 3 UEFA cups) with Redis/PostgreSQL cache &amp; FDC Supercomputer</td>
+    <td align="center">
+      <a href="https://thongek-next-wpm.github.io/football-data-central/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Football Data Central" /></a>
+      <a href="https://github.com/thongek-next-wpm/football-data-central" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Football Data Central Repository" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img width="100%" src="./assets/fm-career-card.svg" alt="fm-career — Football Manager Career Tracker & Stats Dashboard" />
+        <a href="https://github.com/thongek-next-wpm/portfolio" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=portfolio&theme=algolia&bg_color=0D1117&hide_border=true" alt="portfolio" />
+        </a>
       </p>
       <p>
-        <b>⚽ FM Career Tracker &amp; Stats Dashboard</b> <sub><i>(Private Repo)</i></sub><br />
-        A dedicated Football Manager (FM) career tracker and statistics dashboard built to organize managerial saves, match logs, and season progress.
+        <b>🖥️ Developer Portfolio — Frutiger Aero Edition</b><br />
+        Personal portfolio built with React 19, Vite, and Three.js — featuring a Frutiger Aero glass interface, 3D Crystal Biosphere globe, Windows Vista boot experience, and Aero Media Player.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Repository-Private-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Private Repository" />
-        <img src="https://img.shields.io/badge/FM_Career-Tracker-2DDE98?style=flat-square" alt="FM Career Tracker" />
-        <img src="https://img.shields.io/badge/Stats-Dashboard-00AEFF?style=flat-square" alt="Stats Dashboard" />
+        <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Website-14B8A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Website" /></a>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/thongek-next-wpm/football-data-central" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=football-data-central&theme=algolia&bg_color=0D1117&hide_border=true" alt="football-data-central" />
+        </a>
+      </p>
+      <p>
+        <b>⚽ Football Data Central (FDC Web Platform)</b><br />
+        Public European football database covering Top 5 Leagues &amp; 3 UEFA competitions with React + Express architecture, Redis/PostgreSQL caching, and FDC Supercomputer (Poisson xG + Monte Carlo).
+      </p>
+      <p>
+        <a href="https://thongek-next-wpm.github.io/football-data-central/" target="_blank"><img src="https://img.shields.io/badge/Live_Website-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Website" /></a>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/thongek-next-wpm/workout-buddy-supabase" target="_blank">
@@ -91,6 +153,20 @@
         <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img width="100%" src="./assets/fm-career-card.svg" alt="fm-career — Football Manager Career Tracker & Stats Dashboard" />
+      </p>
+      <p>
+        <b>⚽ FM Career Tracker &amp; Stats Dashboard</b> <sub><i>(Private Repo)</i></sub><br />
+        A dedicated Football Manager (FM) career tracker and statistics dashboard built to organize managerial saves, match logs, and season progress.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Repository-Private-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Private Repository" />
+        <img src="https://img.shields.io/badge/FM_Career-Tracker-2DDE98?style=flat-square" alt="FM Career Tracker" />
+        <img src="https://img.shields.io/badge/Stats-Dashboard-00AEFF?style=flat-square" alt="Stats Dashboard" />
       </p>
     </td>
   </tr>
@@ -143,16 +219,16 @@
     <td width="50%" align="center" valign="top">
       <h3>🎨 Frontend</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,dart" height="42" alt="HTML5, CSS3, JavaScript, Dart" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,threejs,dart" height="42" alt="HTML5, CSS3, JavaScript, Three.js, Dart" />
       </p>
-      <sub>HTML5 · CSS3 · JavaScript · Dart</sub>
+      <sub>HTML5 · CSS3 · JavaScript · Three.js · Dart</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>⚙️ Backend &amp; Database</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,supabase,postgres,mongodb,mysql,sqlite,firebase" height="42" alt="Node.js, Express, Supabase, PostgreSQL, MongoDB, MySQL, SQLite, Firebase" />
+        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,supabase,postgres,redis,mongodb,mysql,sqlite,firebase" height="42" alt="Node.js, Express, Supabase, PostgreSQL, Redis, MongoDB, MySQL, SQLite, Firebase" />
       </p>
-      <sub>Node.js · Express · Supabase · PostgreSQL · MongoDB · MySQL · SQLite · Firebase</sub>
+      <sub>Node.js · Express · Supabase · PostgreSQL · Redis · MongoDB · MySQL · SQLite · Firebase</sub>
     </td>
   </tr>
   <tr>
@@ -166,9 +242,9 @@
     <td width="50%" align="center" valign="top">
       <h3>🐳 DevOps &amp; Tools</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,git,github,postman,npm" height="42" alt="Docker, Git, GitHub, Postman, npm" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,npm" height="42" alt="Docker, Git, GitHub, GitHub Actions, Postman, npm" />
       </p>
-      <sub>Docker · Git · GitHub · Postman · npm</sub>
+      <sub>Docker · Git · GitHub · GitHub Actions · Postman · npm</sub>
     </td>
   </tr>
   <tr>
@@ -233,7 +309,7 @@
       <img width="100%" src="https://github-stats-mu-nine.vercel.app/api?username=thongek-next-wpm&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="38%" align="center" valign="middle">
-      <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=thongek-next-wpm&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages" />
+      <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=thongek-next-wpm&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117&cache_seconds=43200" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -251,11 +327,17 @@
 ## 📫 Connect with Me
 
 <p align="center">
+  <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/thongek-wongpomon/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/BreakerGEz" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:thongek.wpm@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
