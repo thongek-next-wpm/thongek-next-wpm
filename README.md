@@ -22,6 +22,7 @@
   <a href="mailto:thongek.wpm@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thongek-next-wpm" alt="Profile Visitors" />
 </p>
 
