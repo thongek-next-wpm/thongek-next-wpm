@@ -1,0 +1,90 @@
+{
+  "username": "thongek-next-wpm",
+  "statsHost": "https://github-stats-mu-nine.vercel.app",
+  "excludeRepos": [
+    "thongek-next-wpm",
+    "MERN-Stack-Tutorial",
+    "MuradIsazade777",
+    "onamfc",
+    "MatthewMacri"
+  ],
+  "liveWebsites": {
+    "autoDiscover": true,
+    "defaultBadgeColor": "0EA5E9",
+    "overrides": {
+      "portfolio": {
+        "order": 1,
+        "title": "🖥️ Developer Portfolio",
+        "highlights": "Frutiger Aero glass UI (ECO / SKY / AQUA), 3D Crystal Biosphere globe (Three.js), Vista boot screen &amp; Aero Media Player",
+        "badgeColor": "14B8A6"
+      },
+      "football-data-central": {
+        "order": 2,
+        "title": "⚽ Football Data Central",
+        "highlights": "Public European football analytics (Top 5 Leagues &amp; 3 UEFA cups) with Redis/PostgreSQL cache &amp; FDC Supercomputer",
+        "badgeColor": "0EA5E9"
+      }
+    }
+  },
+  "featuredProjects": {
+    "maxAutoPublicRepos": 5,
+    "includeForks": [
+      "github-readme-stats"
+    ],
+    "overrides": {
+      "portfolio": {
+        "title": "🖥️ Developer Portfolio — Frutiger Aero Edition",
+        "description": "Personal portfolio built with React 19, Vite, and Three.js — featuring a Frutiger Aero glass interface, 3D Crystal Biosphere globe, Windows Vista boot experience, and Aero Media Player.",
+        "liveBadgeColor": "14B8A6"
+      },
+      "football-data-central": {
+        "title": "⚽ Football Data Central (FDC Web Platform)",
+        "description": "Public European football database covering Top 5 Leagues &amp; 3 UEFA competitions with React + Express architecture, Redis/PostgreSQL caching, and FDC Supercomputer (Poisson xG + Monte Carlo).",
+        "liveBadgeColor": "0EA5E9"
+      },
+      "workout-buddy-supabase": {
+        "title": "🏋️ Workout Buddy — Supabase Edition",
+        "description": "Full-stack workout tracker powered by React, Express, <b>Supabase</b> (PostgreSQL, Auth, RLS), and Google OAuth with a modern athletic dashboard."
+      },
+      "github-readme-stats": {
+        "title": "📊 Self-Hosted GitHub Metrics API",
+        "description": "A personal Vercel-hosted GitHub Readme Stats instance serving live profile analytics, top-language breakdowns, and repository pin cards.",
+        "hideLiveBadge": true,
+        "badges": [
+          { "label": "Vercel", "color": "000000", "logo": "vercel", "logoColor": "white" },
+          { "label": "Node.js", "color": "339933", "logo": "nodedotjs", "logoColor": "white" },
+          { "label": "SVG_API", "alt": "SVG API", "color": "38BDF8" }
+        ]
+      }
+    },
+    "customCards": [
+      {
+        "id": "fm-career",
+        "repoName": "fm-career",
+        "image": "./assets/fm-career-card.svg",
+        "imageAlt": "fm-career — Football Manager Career Tracker & Stats Dashboard",
+        "title": "⚽ FM Career Tracker &amp; Stats Dashboard",
+        "subtitle": "(Private Repo)",
+        "description": "A dedicated Football Manager (FM) career tracker and statistics dashboard built to organize managerial saves, match logs, and season progress.",
+        "badges": [
+          { "label": "Repository-Private", "alt": "Private Repository", "color": "F59E0B", "logo": "github", "logoColor": "white" },
+          { "label": "FM_Career-Tracker", "alt": "FM Career Tracker", "color": "2DDE98" },
+          { "label": "Stats-Dashboard", "alt": "Stats Dashboard", "color": "00AEFF" }
+        ]
+      },
+      {
+        "id": "ai-engine-systems",
+        "image": "./assets/ai-engine-card.svg",
+        "imageAlt": "AI Engine-Powered Systems & Web Apps",
+        "title": "🤖 AI Engine-Powered Systems &amp; Web Apps",
+        "subtitle": "(In Active Development)",
+        "description": "Integrating <b>AI Engine</b> capabilities into ongoing web and workflow automation projects to deliver smarter data processing and system assistance.",
+        "badges": [
+          { "label": "Powered_by-AI_Engine", "alt": "Powered by AI Engine", "color": "A855F7", "logo": "sparkles", "logoColor": "white" },
+          { "label": "Status-In_Development", "alt": "In Development", "color": "F59E0B" },
+          { "label": "Full--Stack-%26_Automation", "alt": "Full-Stack & Automation", "color": "0EA5E9" }
+        ]
+      }
+    ]
+  }
+}

@@ -70,6 +70,7 @@
 
 ## 🌐 Live Websites
 
+<!-- AUTO:LIVE_WEBSITES:START -->
 <table width="100%">
   <tr>
     <th width="25%" align="left">Website</th>
@@ -80,48 +81,32 @@
     <td><b>🖥️ Developer Portfolio</b></td>
     <td>Frutiger Aero glass UI (ECO / SKY / AQUA), 3D Crystal Biosphere globe (Three.js), Vista boot screen &amp; Aero Media Player</td>
     <td align="center">
-      <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-14B8A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Portfolio Website" /></a>
-      <a href="https://github.com/thongek-next-wpm/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio Repository" /></a>
+      <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-14B8A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+      <a href="https://github.com/thongek-next-wpm/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="portfolio Repository" /></a>
     </td>
   </tr>
   <tr>
     <td><b>⚽ Football Data Central</b></td>
     <td>Public European football analytics (Top 5 Leagues &amp; 3 UEFA cups) with Redis/PostgreSQL cache &amp; FDC Supercomputer</td>
     <td align="center">
-      <a href="https://thongek-next-wpm.github.io/football-data-central/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Football Data Central" /></a>
-      <a href="https://github.com/thongek-next-wpm/football-data-central" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Football Data Central Repository" /></a>
+      <a href="https://thongek-next-wpm.github.io/football-data-central/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit football-data-central" /></a>
+      <a href="https://github.com/thongek-next-wpm/football-data-central" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="football-data-central Repository" /></a>
     </td>
   </tr>
 </table>
+<!-- AUTO:LIVE_WEBSITES:END -->
 
 ---
 
 ## 🚀 Featured Projects
 
+<!-- AUTO:FEATURED_PROJECTS:START -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/thongek-next-wpm/portfolio" target="_blank">
-          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=portfolio&theme=algolia&bg_color=0D1117&hide_border=true" alt="portfolio" />
-        </a>
-      </p>
-      <p>
-        <b>🖥️ Developer Portfolio — Frutiger Aero Edition</b><br />
-        Personal portfolio built with React 19, Vite, and Three.js — featuring a Frutiger Aero glass interface, 3D Crystal Biosphere globe, Windows Vista boot experience, and Aero Media Player.
-      </p>
-      <p>
-        <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Website-14B8A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Website" /></a>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
         <a href="https://github.com/thongek-next-wpm/football-data-central" target="_blank">
-          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=football-data-central&theme=algolia&bg_color=0D1117&hide_border=true" alt="football-data-central" />
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&amp;repo=football-data-central&amp;theme=algolia&amp;bg_color=0D1117&amp;hide_border=true" alt="football-data-central" />
         </a>
       </p>
       <p>
@@ -137,12 +122,30 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/thongek-next-wpm/portfolio" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&amp;repo=portfolio&amp;theme=algolia&amp;bg_color=0D1117&amp;hide_border=true" alt="portfolio" />
+        </a>
+      </p>
+      <p>
+        <b>🖥️ Developer Portfolio — Frutiger Aero Edition</b><br />
+        Personal portfolio built with React 19, Vite, and Three.js — featuring a Frutiger Aero glass interface, 3D Crystal Biosphere globe, Windows Vista boot experience, and Aero Media Player.
+      </p>
+      <p>
+        <a href="https://thongek-next-wpm.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Website-14B8A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Website" /></a>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/thongek-next-wpm/workout-buddy-supabase" target="_blank">
-          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=workout-buddy-supabase&theme=algolia&bg_color=0D1117&hide_border=true" alt="workout-buddy-supabase" />
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&amp;repo=workout-buddy-supabase&amp;theme=algolia&amp;bg_color=0D1117&amp;hide_border=true" alt="workout-buddy-supabase" />
         </a>
       </p>
       <p>
@@ -150,7 +153,7 @@
         Full-stack workout tracker powered by React, Express, <b>Supabase</b> (PostgreSQL, Auth, RLS), and Google OAuth with a modern athletic dashboard.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
         <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -158,24 +161,39 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img width="100%" src="./assets/fm-career-card.svg" alt="fm-career — Football Manager Career Tracker & Stats Dashboard" />
+        <a href="https://github.com/thongek-next-wpm/chrome-history-log" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&amp;repo=chrome-history-log&amp;theme=algolia&amp;bg_color=0D1117&amp;hide_border=true" alt="chrome-history-log" />
+        </a>
       </p>
       <p>
-        <b>⚽ FM Career Tracker &amp; Stats Dashboard</b> <sub><i>(Private Repo)</i></sub><br />
-        A dedicated Football Manager (FM) career tracker and statistics dashboard built to organize managerial saves, match logs, and season progress.
+        <b>📦 Chrome History Log</b><br />
+        A self-contained batch script (collect_chrome_history.bat) that exports Google Chrome browsing history for the current local machine only to CSV files (UTF-8 with BOM), categorizes visits by activity type, and extracts search engine...
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Repository-Private-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Private Repository" />
-        <img src="https://img.shields.io/badge/FM_Career-Tracker-2DDE98?style=flat-square" alt="FM Career Tracker" />
-        <img src="https://img.shields.io/badge/Stats-Dashboard-00AEFF?style=flat-square" alt="Stats Dashboard" />
+        <img src="https://img.shields.io/badge/Windows_Batch-4D4D4D?style=flat-square" alt="Windows Batch" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
+        <a href="https://github.com/thongek-next-wpm/auto-clean" target="_blank">
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&amp;repo=auto-clean&amp;theme=algolia&amp;bg_color=0D1117&amp;hide_border=true" alt="auto-clean" />
+        </a>
+      </p>
+      <p>
+        <b>📦 Auto Clean</b><br />
+        สคริปต์ .bat สำหรับทำความสะอาดไฟล์ขยะ (Temp, Cache, และ Recycle Bin) บน Windows อย่างปลอดภัย พร้อมแถบแสดงความคืบหน้า (Progress Bar) แบบเรียลไทม์
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows_Batch-4D4D4D?style=flat-square" alt="Windows Batch" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
         <a href="https://github.com/thongek-next-wpm/github-readme-stats" target="_blank">
-          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&repo=github-readme-stats&theme=algolia&bg_color=0D1117&hide_border=true" alt="github-readme-stats" />
+          <img width="100%" src="https://github-stats-mu-nine.vercel.app/api/pin/?username=thongek-next-wpm&amp;repo=github-readme-stats&amp;theme=algolia&amp;bg_color=0D1117&amp;hide_border=true" alt="github-readme-stats" />
         </a>
       </p>
       <p>
@@ -188,9 +206,25 @@
         <img src="https://img.shields.io/badge/SVG_API-38BDF8?style=flat-square" alt="SVG API" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img width="100%" src="./assets/ai-engine-card.svg" alt="AI Engine-Powered Systems & Web Apps" />
+        <img width="100%" src="./assets/fm-career-card.svg" alt="fm-career — Football Manager Career Tracker &amp; Stats Dashboard" />
+      </p>
+      <p>
+        <b>⚽ FM Career Tracker &amp; Stats Dashboard</b> <sub><i>(Private Repo)</i></sub><br />
+        A dedicated Football Manager (FM) career tracker and statistics dashboard built to organize managerial saves, match logs, and season progress.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Repository-Private-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Private Repository" />
+        <img src="https://img.shields.io/badge/FM_Career-Tracker-2DDE98?style=flat-square" alt="FM Career Tracker" />
+        <img src="https://img.shields.io/badge/Stats-Dashboard-00AEFF?style=flat-square" alt="Stats Dashboard" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img width="100%" src="./assets/ai-engine-card.svg" alt="AI Engine-Powered Systems &amp; Web Apps" />
       </p>
       <p>
         <b>🤖 AI Engine-Powered Systems &amp; Web Apps</b> <sub><i>(In Active Development)</i></sub><br />
@@ -199,11 +233,12 @@
       <p>
         <img src="https://img.shields.io/badge/Powered_by-AI_Engine-A855F7?style=flat-square&logo=sparkles&logoColor=white" alt="Powered by AI Engine" />
         <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" alt="In Development" />
-        <img src="https://img.shields.io/badge/Full--Stack-%26_Automation-0EA5E9?style=flat-square" alt="Full-Stack & Automation" />
+        <img src="https://img.shields.io/badge/Full--Stack-%26_Automation-0EA5E9?style=flat-square" alt="Full-Stack &amp; Automation" />
       </p>
     </td>
   </tr>
 </table>
+<!-- AUTO:FEATURED_PROJECTS:END -->
 
 <p align="center">
   <a href="https://github.com/thongek-next-wpm?tab=repositories" target="_blank">
